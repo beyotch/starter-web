@@ -19,4 +19,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork this repository and do pull request
 
 ### Copyright
-Git Training 
+Git Training. All rights reserved. 
